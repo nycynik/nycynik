@@ -1,7 +1,8 @@
 ### Hi there 👋
+- 😄 Gamification is one of my favorite adventures.
+- ⚡ Fun fact: I love to juggle on a unicycle!
 
 <!--
-**nycynik/nycynik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
